@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "plain-notes",
-    "slug": "plain-notes"
+    "slug": "plain-notes",
+    "version": "1.0.0",
+    "orientation": "portrait"
+    
   }
 }
